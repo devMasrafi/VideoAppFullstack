@@ -1,0 +1,20 @@
+{
+  "name": "videoappfullstack",
+  "version": "1.0.0",
+  "description": "MERN stack application. Backend Code with MongoDB, expressJS, Node fontend with ReactJS TailwindCSS",
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "JavaScript",
+    "ReactJS",
+    "TailwindCSS",
+    "JWT"
+  ],
+  "license": "ISC",
+  "author": "devMasrafi ( Masrafi Mondol )",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
